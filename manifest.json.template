@@ -12,9 +12,9 @@
   },
   "binaryDependencies": {
     "org.zowe.zlux.zlux-core": {
-      "version": "1.13.0-RC",
+      "version": "1.13.0-231-247-S-S-S-S",
       "repository": "libs-snapshot-local",
-      "artifact": "zlux-core-1.13.0-20200623.140917.pax"
+      "artifact": "zlux-core-1.13.0-20200701.152922.pax"
     },
     "org.zowe.zlux.zss-auth": {
       "version": "1.13.0-RC",
